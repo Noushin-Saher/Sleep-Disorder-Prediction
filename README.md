@@ -45,5 +45,3 @@ Multiple algorithms were evaluated, including Logistic Regression, KNN, Decision
 
 ## 🔍 Sample Prediction
 The final model can predict sleep disorder types (Insomnia, Sleep Apnea, Healthy) using user input on health and lifestyle attributes.
-
-## 📁 Project Structure
